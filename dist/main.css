@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    
+}
+
+
+nav {
+    background: #8bc49e;
+}
+body {
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    height: 100vh;
+    background-color: #537895;
+    background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 5vw;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+
